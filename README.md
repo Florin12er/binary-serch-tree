@@ -1,1 +1,1 @@
-Binary search tree from odin project.
+Binary search tree from odin project
